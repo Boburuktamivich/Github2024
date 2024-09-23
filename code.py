@@ -1,1 +1,2 @@
-
+def odd(a):
+    return 
